@@ -27,6 +27,7 @@ const Profile = {
 };
 ```
 
+## Stats
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"])](https://github.com/ccs-lt)
 
 ## Neko :333
