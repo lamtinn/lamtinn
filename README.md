@@ -25,7 +25,7 @@ const Profile = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
-##
+## Neko :333
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"])](https://github.com/ccs-lt)
 
