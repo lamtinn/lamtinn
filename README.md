@@ -28,4 +28,4 @@ const Profile = {
 
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"])](https://github.com/ccs-lt)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://imgur.com/AcOvzWW" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
