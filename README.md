@@ -1,6 +1,7 @@
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/01naveenv/)
 [![](https://img.shields.io/badge/___Facebook-ltin.dev-0458FB?style=for-the-badge&logo=facebook)](https://www.facebook.com/ltin.dev/)
+
 [![](https://img.shields.io/badge/__Discord-CCS__LT%239103-0147FB?style=for-the-badge&logo=discord)](https://discord.com)
+
 [![](https://img.shields.io/badge/__Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 <p align="center"> 
