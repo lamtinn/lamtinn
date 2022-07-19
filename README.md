@@ -2,6 +2,8 @@
 <p align="center"> 
   My Social<br>
   <img src="https://img.shields.io/badge/___Facebook-ltin.dev-0458FB?style=for-the-badge&logo=facebook" />
+  <img src="[https://img.shields.io/badge/___Facebook-ltin.dev-0458FB?style=for-the-badge&logo=facebook](https://img.shields.io/badge/__Discord-CCS__LT%239103-0147FB?style=for-the-badge&logo=discord)" />
+  <img src="[https://img.shields.io/badge/___Facebook-ltin.dev-0458FB?style=for-the-badge&logo=facebook](https://img.shields.io/badge/__Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)" />
 </p>
 
 [![](https://img.shields.io/badge/___Facebook-ltin.dev-0458FB?style=for-the-badge&logo=facebook)](https://www.facebook.com/ltin.dev/)
