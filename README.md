@@ -23,9 +23,9 @@
 
 <table>
   <tr>
-    <td>──────────────────────────────</td>
-     <td>───────────────────────────</td>
-     <td>─────────────────────────</td>
+    <td>─────────────────────────────</td>
+     <td>──────────────────────────</td>
+     <td>────────────────────────</td>
   </tr>
   <tr>
   <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"]"></td>
