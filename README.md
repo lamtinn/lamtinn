@@ -10,22 +10,7 @@
 
 
 
-```javascript
-const Profile = {
-    pronouns: "He" | "Him",
-    code: ["NodeJS", "Java"],
-    askMeAbout: ["gaming", "discord bot", "database", "music", "anime"],
-    technologies: {
-       discordBot: ["nodejs", "discord.js"],
-       backEnd: {
-            js: ["node", "express"],
-        },
-        databases: ["mongodb", "mysql", "sqlite"],
-        misc: ["Python", "PHP"]
-    },
-    funFact: "There are two ways to write error-free programs; only the third one works"
-};
-```
+<img align="center" src="https://i.imgur.com/1cxlzQL.png">
 
 ## Stats
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"])](https://github.com/ccs-lt)
