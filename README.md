@@ -20,13 +20,22 @@
 <img align="center" src="https://i.imgur.com/RwvGZrq.png">
 
 ## 🎉 Github Stats
-<p align="left">
-  <img alt="discord" src="https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"]">
-</p>
 
-<p align="right">
-  <img alt="discord" src="https://github-readme-streak-stats.herokuapp.com/?user=ccs-lt&theme=vue-dark&hide_border=false">
-</p>
+<table>
+  <tr>
+    <td>──────────────────────────────</td>
+     <td>───────────────────────────</td>
+     <td>─────────────────────────</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccs-lt&theme=cobalt&hide_border=false"></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"]"></td>
+    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccs-lt&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></td>
+  </tr>
+ </table>
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ccs-lt&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ## 💰 Donations
 <p><a href="https://www.buymeacoffee.com/ccslt">  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ccslt" /></a>
