@@ -1,7 +1,12 @@
-## My Profile
+<p align="center">
+  <img width="64px" height="64px" alt="SocialLikes" src="https://cdn3.emoji.gg/emojis/3705-sociallikes.gif">
+</p>
+<h2 align="center">My Social</h2>
+
 [![](https://img.shields.io/badge/___Facebook-ltin.dev-0458FB?style=for-the-badge&logo=facebook)](https://discord.com)
-[![](https://img.shields.io/badge/__Discord-CCS__LT%239103-0147FB?style=for-the-badge&logo=discord)](https://discord.com)
-[![](https://img.shields.io/badge/__Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+[![](https://img.shields.io/badge/___Discord-CCS__LT%239103-0147FB?style=for-the-badge&logo=discord)](https://discord.com)
+[![](https://img.shields.io/badge/___Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=km#inbox)
+[![](https://img.shields.io/badge/___Steam-ngolamtinzk-00adee?style=for-the-badge&logo=steam)]()
 
 <p align="center"> 
   Visitor Count<br>
