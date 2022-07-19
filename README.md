@@ -28,8 +28,8 @@
      <td>─────────────────────────</td>
   </tr>
   <tr>
+  <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"]"></td>
     <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccs-lt&theme=cobalt&hide_border=false"></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"]"></td>
     <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccs-lt&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></td>
   </tr>
  </table>
