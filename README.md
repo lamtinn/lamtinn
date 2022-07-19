@@ -32,6 +32,3 @@ const Profile = {
 
 ## Discord
 <img align="center" width="400" alt="discord" src="https://lanyard.cnrad.dev/api/459968756416905216?theme=dark&idleMessage=Làm gì đấy?">
-
-## Neko :333
-<img src="https://i.imgur.com/eGnlydv.gif">
