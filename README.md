@@ -31,7 +31,7 @@ const Profile = {
 [![Naveen's github stats](https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"])](https://github.com/ccs-lt)
 
 ## Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/459968756416905216?theme=dark&idleMessage=Làm gì đấy?)](https://discord.com/users/459968756416905216)
+<img align="center" width="400" alt="discord" src="https://lanyard.cnrad.dev/api/459968756416905216?theme=dark&idleMessage=Làm gì đấy?">
 
 ## Neko :333
 <img src="https://i.imgur.com/eGnlydv.gif">
