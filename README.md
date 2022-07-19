@@ -1,8 +1,5 @@
 ## My Profile
-<p align="center"> 
-  My Social<br>
-  <img src="https://img.shields.io/badge/___Facebook-ltin.dev-0458FB?style=for-the-badge&logo=facebook" />
-</p>
+[![](https://img.shields.io/badge/___Facebook-ltin.dev-0458FB?style=for-the-badge&logo=facebook)](https://discord.com)
 [![](https://img.shields.io/badge/__Discord-CCS__LT%239103-0147FB?style=for-the-badge&logo=discord)](https://discord.com)
 [![](https://img.shields.io/badge/__Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
