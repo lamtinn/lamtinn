@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img width="400" alt="discord" src="https://lanyard.cnrad.dev/api/459968756416905216?theme=dark&bg=25b2a6&idleMessage=Làm gì đấy?">
+  <img width="400" alt="discord" src="https://lanyard.cnrad.dev/api/459968756416905216)](https://discord.com/users/459968756416905216">
 </p>
 
 <img align="center" src="https://i.imgur.com/RwvGZrq.png">
