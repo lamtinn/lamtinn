@@ -15,6 +15,8 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/459968756416905216)](https://discord.com/users/459968756416905216)
 
+<img align="center" src="https://lanyard.cnrad.dev/api/459968756416905216.png">
+
 <img align="center" src="https://i.imgur.com/RwvGZrq.png">
 
 ## 🎉 Github Stats
