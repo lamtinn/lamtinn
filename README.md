@@ -22,6 +22,7 @@
   <br>
 <br>
 
+---
 <p align="center">
   <a href="https://discord.com/users/459968756416905216">
     <img src="https://lanyard.cnrad.dev/api/459968756416905216" alt="Discord Presence" />
