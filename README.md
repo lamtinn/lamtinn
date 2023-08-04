@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
 # 🔧 Skills :
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![SpigotMC](https://img.shields.io/badge/spigotmc-%23D67F1D.svg?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAJpJREFUOI2lUzkSgCAM3Dg+gkbfQG1jx7/9gW/Qhl/ERhwkB864FUOS3U0IBAlW7lqQOBioydTcoSfFux/3CNpW1NZcB0Xdc9FtAQDOsJoxbTBcq9bFc9hEzQilN614yttLoBCNvSlrxABAEQyAqHVgqVOUw6RozODIsvi2zI0LcxO1Ny+5D4lH4OHLX/GxpMxLygx8XCQPvwkuWKw1KJIVX9QAAAAASUVORK5CYII=&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 <img align="center" src="https://i.imgur.com/RwvGZrq.png">
 
