@@ -3,6 +3,9 @@
 [![](https://img.shields.io/badge/Discord-lamtinn-0147FB?style=for-the-badge&logo=discord)](https://discord.com)
 [![](https://img.shields.io/badge/Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
+# 🔧 Skills :
+
+
 <img align="center" src="https://i.imgur.com/RwvGZrq.png">
 
 ## 🎉 Github Stats
