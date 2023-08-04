@@ -13,9 +13,7 @@
   <img src="https://profile-counter.glitch.me/ccs-lt/count.svg" />
 </p>
 
-<p align="center">
-  <img width="400" alt="discord" src="https://lanyard.cnrad.dev/api/459968756416905216)](https://discord.com/users/459968756416905216">
-</p>
+[![Discord Presence](https://lanyard.cnrad.dev/api/459968756416905216)](https://discord.com/users/459968756416905216)
 
 <img align="center" src="https://i.imgur.com/RwvGZrq.png">
 
