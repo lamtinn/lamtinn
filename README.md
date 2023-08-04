@@ -7,19 +7,9 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat-square&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 # 🎉 Github Stats
-
-<table>
-  <tr>
-    <td>────────────────────────────</td>
-     <td>─────────────────────────</td>
-     <td>───────────────────────</td>
-  </tr>
-  <tr>
-  <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=ccs-lt&show_icons=true&theme=cobalt&count_private=true&hide=["contribs","issues"]"></td>
-    <td valign="top"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ccs-lt&theme=cobalt&hide_border=false"></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccs-lt&theme=cobalt&hide_border=false&include_all_commits=true&count_private=false&layout=compact"></td>
-  </tr>
- </table>
+![](https://github-readme-stats.vercel.app/api?username=lamtinn&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lamtinn&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lamtinn&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ccs-lt&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
