@@ -3,18 +3,6 @@
 [![](https://img.shields.io/badge/___Discord-CCS__LT%239103-0147FB?style=for-the-badge&logo=discord)](https://discord.com)
 [![](https://img.shields.io/badge/___Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=lamtinn&label=Visitor%20Count&color=9&icon=2&pretty=false" alt="Visitor Count" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.com/users/459968756416905216">
-    <img src="https://lanyard.cnrad.dev/api/459968756416905216" alt="Discord Presence" />
-  </a>
-</p>
-
 <img align="center" src="https://i.imgur.com/RwvGZrq.png">
 
 ## 🎉 Github Stats
@@ -43,6 +31,17 @@
   <br>
 <br>
 
+<p align="center">
+  <a href="https://discord.com/users/459968756416905216">
+    <img src="https://lanyard.cnrad.dev/api/459968756416905216" alt="Discord Presence" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=lamtinn&label=Visitor%20Count&color=9&icon=2&pretty=false" alt="Visitor Count" />
+  </a>
+</p>
 
 
 
