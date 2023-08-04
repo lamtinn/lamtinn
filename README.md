@@ -12,9 +12,7 @@
   <img src="https://profile-counter.glitch.me/ccs-lt/count.svg" />
 </p>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=lamtinn&label=Visitor%20Count&color=9&icon=2&pretty=false" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=lamtinn&label=Visitor%20Count&color=9&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="center">
   <a href="https://discord.com/users/459968756416905216">
