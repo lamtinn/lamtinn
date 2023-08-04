@@ -7,11 +7,6 @@
 [![](https://img.shields.io/badge/___Discord-CCS__LT%239103-0147FB?style=for-the-badge&logo=discord)](https://discord.com)
 [![](https://img.shields.io/badge/___Gmail-ngolamtinzk@gmail.com-FB5A00?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/u/0/?tab=km#inbox)
 
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/ccs-lt/count.svg" />
-</p>
-
 <p align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=lamtinn&label=Visitor%20Count&color=9&icon=2&pretty=false" alt="Visitor Count" />
